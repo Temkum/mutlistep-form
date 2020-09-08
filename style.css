@@ -110,6 +110,11 @@ form button {
     height: 100%;
     width: 120px;
     background: linear-gradient(to right, #ff105f, #ffad06);
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
 }
 
 /* make arrow right */
