@@ -9,3 +9,16 @@ body {
     /* background-position: center; */
     background-size: cover;
 }
+
+.container {
+    width: 360px;
+    height: 400px;
+    margin: 8% auto;
+    background: white;
+    position: relative;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
