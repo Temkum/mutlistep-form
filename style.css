@@ -72,3 +72,21 @@ form button {
     -ms-border-radius: 30px;
     -o-border-radius: 30px;
 }
+
+#form-2 {
+    left: 450px;
+}
+
+#form-3 {
+    left: 450px;
+}
+
+.step-row {
+    width: 360px;
+    height: 40px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 -1px 5px -1px #000;
+    position: relative;
+}
